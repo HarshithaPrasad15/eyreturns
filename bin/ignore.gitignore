@@ -1,0 +1,18 @@
+# Ignore compiled/binary files
+*.dll
+*.exe
+*.pyc
+*.pyo
+*.so
+*.log
+*.db
+
+# Ignore environment and dependency folders
+env/
+venv/
+node_modules/
+bin/
+obj/
+.vs/
+_pycache_/
+migrations/
